@@ -1,20 +1,12 @@
-### Hi there 👋
+# Olá, sou Ernst Zeidler 👋
 
-<!--
-**ernstneto/ernstneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro de Computação | CEFET/RJ**  
+Foco em: Sistemas Embarcados, Computação Gráfica e Redes
 
-Here are some ideas to get you started:
+## 🛠 Habilidades Técnicas
+- **Linguagens**: C, C++, Python, Java
+- **Redes**: pfSense, Wireshark, Snort
+- **Ferramentas**: OpenGL, Git, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/659ec98cae22c1252356b8db?variant=dark" alt="roadmap.sh"/></a>
-
-https://tryhackme.com/r/p/ernstneto
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/ernst-zeidler-9173101a2](https://www.linkedin.com/in/ernst-zeidler-9173101a2/))
