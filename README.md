@@ -9,4 +9,4 @@ Foco em: Sistemas Embarcados, Computação Gráfica e Redes
 - **Ferramentas**: OpenGL, Git, LaTeX
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)((https://www.linkedin.com/in/ernst-zeidler-9173101a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ernst-zeidler-9173101a2)
