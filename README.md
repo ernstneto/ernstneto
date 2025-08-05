@@ -1,11 +1,11 @@
 # Olá, sou Ernst Zeidler 👋
 
 **Engenheiro de Computação | CEFET/RJ**  
-Foco em: Sistemas Embarcados, Computação Gráfica e Redes
+Foco em: Sistemas Embarcados, Redes e Cybersecurity.
 
 ## 🛠 Habilidades Técnicas
-- **Linguagens**: C, C++, Python, Java
-- **Redes**: pfSense, Wireshark, Snort
+- **Linguagens**: C, C++, Python, Java, Rust, C#, HTML, CSS, JavaScript
+- **Redes**: pfSense, Wireshark, Snort, Nessus
 - **Ferramentas**: OpenGL, Git, LaTeX
 
 ## 📫 Contato
