@@ -4,7 +4,7 @@
 Foco em: Sistemas Embarcados, Redes e Cybersecurity.
 
 ## 🛠 Habilidades Técnicas
-- **Linguagens**: C, C++, Python, Java, Rust, C#, HTML, CSS, PHP, JavaScript, Kotlin
+- **Linguagens**: C, C++, Python, Java, Rust, C#, HTML5, CSS3, PHP, JavaScript, Kotlin
 - **Redes**: pfSense, Wireshark, Snort, Nessus
 - **Ferramentas**: OpenGL, Git, LaTeX, Android Studio
 
